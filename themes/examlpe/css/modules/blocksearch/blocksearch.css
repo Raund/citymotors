@@ -1,0 +1,20 @@
+.search_form{
+  height: 60px;
+  background: #1e2121 url("serch.png") no-repeat 95%;
+}
+
+.search_form input{
+  width: 100%;
+  background-color: inherit;
+  border: none;
+  font-size: 14px;
+  color: #fbfbfb;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.search_form hr{
+  margin-top: 3%;
+  width: 93%;
+  margin-left: 3%;
+}
