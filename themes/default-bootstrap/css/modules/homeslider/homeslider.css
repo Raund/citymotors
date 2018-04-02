@@ -215,3 +215,10 @@
 
 .ie8 #homepage-slider .bx-wrapper .bx-controls-direction a:before {
   background: #333333; }
+
+/* adaptive */
+@media (max-width: 768px) {
+  #homepage-slider {
+    display: none;
+  } 
+}

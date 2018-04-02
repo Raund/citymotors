@@ -794,3 +794,12 @@ form#searchbox .button.button-small i {
     margin-bottom: 20px;
     padding: 15px;
 }
+
+/* adaptive */
+@media (max-width: 768px) {
+    form#searchbox input#search_query_block {
+        display: block;
+        float: none;
+        margin: 0 auto;
+    }
+}
